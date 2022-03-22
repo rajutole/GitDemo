@@ -10,4 +10,16 @@ public class RestAPITest
 	{
 		System.out.println("restAPIresults");
 	}
+	@Test
+	public void mobileTest()
+	{
+		System.out.println("mobile test");
+		
+	}
+	@Test
+	public void mobileTest3()
+	{
+		System.out.println("mobile test");
+		
+	}
 }

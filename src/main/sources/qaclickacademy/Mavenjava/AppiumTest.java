@@ -11,5 +11,17 @@ public class AppiumTest
 		System.out.println("mobile test");
 		
 	}
+	@Test
+	public void mobileTest2()
+	{
+		System.out.println("mobile test");
+		
+	}
 
+	@Test
+	public void mobileTest3()
+	{
+		System.out.println("mobile test");
+		
+	}
 }
